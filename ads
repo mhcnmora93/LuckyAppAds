@@ -1,5 +1,5 @@
 {
-    "ads": {"network":"applovin","url":""},
+    "ads": {"network":"applovin","url":"https://play.google.com/store/apps/dev?id=8210134400811493079"},
     "reword": {"items":""},
     
     "fan": {
@@ -9,9 +9,9 @@
     "reword":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"},
     
     "applovin": {
-    "banner":"",
-    "inter":"",
-    "nativ":"",
-    "reword":""}
+    "banner":"4a9c1d7bcb621790",
+    "inter":"d0d5ecb114d51c0c",
+    "nativ":"94c336e37bd8f02f",
+    "reword":"69cc7c5600bba23b"}
       
     }
